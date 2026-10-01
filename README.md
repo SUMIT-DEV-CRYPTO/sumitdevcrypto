@@ -1,32 +1,287 @@
-<h1 align="center">Hi 👋, I'm Sumit Debnath</h1>
-<h3 align="center">Crypto Trader | Python Developer | AI & Blockchain Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-dev-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-dev-crypto" /> </p>
+# 👋 Hey, I'm Sumit Debnath
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-dev-crypto" alt="sumit-dev-crypto" /></a> </p>
+### 💻 Developer • Python Learner • AI/ML Enthusiast
 
-<p align="left"> <a href="https://twitter.com/sumit_apt" target="blank"><img src="https://img.shields.io/twitter/follow/sumit_apt?logo=twitter&style=for-the-badge" alt="sumit_apt" /></a> </p>
+Building, learning and experimenting with **Python, AI/ML, automation and software development.**
 
-- 🌱 I’m currently learning **Python, AI/ML, Blockchain & Automation**
+<br/>
 
-- 👨‍💻 All of my projects are available at [github](github)
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+  <img src="https://komarev.com/ghpvc/?username=SUMIT-DEV-CRYPTO&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 
-- 💬 Ask me about **Python, AI/ML, Blockchain, Web3, Automation, GitHub & Software Development**
+<a href="https://github.com/SUMIT-DEV-CRYPTO?tab=followers">
+  <img src="https://img.shields.io/github/followers/SUMIT-DEV-CRYPTO?label=Followers&style=flat" alt="GitHub Followers"/>
+</a>
 
-- 📫 How to reach me **debnathsumit441@gmail.com**
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+  <img src="https://img.shields.io/github/stars/SUMIT-DEV-CRYPTO?label=Stars&style=flat" alt="GitHub Stars"/>
+</a>
 
-- ⚡ Fun fact **I love learning new technologies and building useful projects.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 About Me
+
+* 🎓 Currently pursuing **BCA**
+* 🐍 Learning and building with **Python**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* ⚙️ Interested in **automation, bots and developer tools**
+* 🧠 Improving my problem-solving and programming skills
+* 🌱 Currently focused on becoming a better software developer
+* 📚 Always learning something new
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p align="left">
-<a href="https://twitter.com/sumit_apt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumit_apt" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,markdown" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### Tools & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-dev-crypto&show_icons=true&locale=en&layout=compact" alt="sumit-dev-crypto" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,figma,vercel" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-dev-crypto&show_icons=true&locale=en" alt="sumit-dev-crypto" /></p>
+### Currently Exploring
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-dev-crypto&" alt="sumit-dev-crypto" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+> My primary focus is currently **Python → AI/ML → Automation → Real-world projects**.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SUMIT-DEV-CRYPTO&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT-DEV-CRYPTO&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img src="https://streak-stats.demolab.com/?user=SUMIT-DEV-CRYPTO&hide_border=true" alt="GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SUMIT-DEV-CRYPTO\&hide_border=true)
+
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SUMIT-DEV-CRYPTO\&theme=flat\&no-frame=true\&margin-w=8\&column=4)
+
+</a>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUMIT-DEV-CRYPTO&repo=YOUR-PROJECT-1&hide_border=true" />
+</a>
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUMIT-DEV-CRYPTO&repo=YOUR-PROJECT-2&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUMIT-DEV-CRYPTO&repo=YOUR-PROJECT-3&hide_border=true" />
+</a>
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SUMIT-DEV-CRYPTO&repo=YOUR-PROJECT-4&hide_border=true" />
+</a>
+
+</div>
+
+> **Important:** Replace `YOUR-PROJECT-1` etc. with your actual repository names.
+
+---
+
+# 💻 My Developer Journey
+
+```text
+Python
+  │
+  ├── Programming Fundamentals
+  │
+  ├── Data Structures & Algorithms
+  │
+  ├── Automation & APIs
+  │
+  ├── Backend Development
+  │
+  ├── Artificial Intelligence
+  │
+  └── Machine Learning
+          │
+          ▼
+     Real-World Projects
+```
+
+---
+
+# 📚 Currently Learning
+
+* 🐍 Advanced Python
+* 🧩 Data Structures & Algorithms
+* 🗄️ Databases & SQL
+* 🌐 APIs & Backend Development
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ⚙️ Automation
+* 🐙 Git & GitHub
+* 🚀 Building and deploying projects
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Become strong in Python
+* [ ] Build multiple real-world projects
+* [ ] Learn Data Structures & Algorithms
+* [ ] Build useful automation tools
+* [ ] Start AI/ML projects
+* [ ] Improve Git & GitHub workflow
+* [ ] Contribute to open-source projects
+* [ ] Build a strong developer portfolio
+* [ ] Maintain consistent GitHub activity
+
+---
+
+# 📊 GitHub Profile Overview
+
+<div align="center">
+
+| 📁 Repositories |   ⭐ Stars   | 🔥 Current Streak | 📈 Contributions |
+| :-------------: | :---------: | :---------------: | :--------------: |
+|   **Dynamic**   | **Dynamic** |    **Dynamic**    |    **Dynamic**   |
+
+</div>
+
+> The detailed cards above automatically pull your GitHub activity, so these numbers don't need to be manually maintained.
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SUMIT-DEV-CRYPTO/SUMIT-DEV-CRYPTO/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> This section requires a GitHub Action to generate the snake animation. Set it up once and it can update automatically.
+
+---
+
+# ✍️ Articles & Notes
+
+I occasionally write about things I'm learning, building and experimenting with.
+
+### Topics
+
+* Python
+* AI & Machine Learning
+* Programming
+* Git & GitHub
+* Automation
+* Developer Tools
+
+➡️ **Articles:** `Coming soon...`
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/SUMIT-DEV-CRYPTO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Add your LinkedIn -->
+
+<!--
+<a href="YOUR-LINKEDIN-URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+-->
+
+<!-- Add your X/Twitter -->
+
+<!--
+<a href="YOUR-X-URL">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learn. Build. Break. Fix. Repeat."
+
+<br/>
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+<br/>
+
+![GitHub Activity](https://img.shields.io/badge/Building-Every%20Day-success?style=flat-square)
+![Python](https://img.shields.io/badge/Learning-Python-blue?style=flat-square)
+![AI](https://img.shields.io/badge/Exploring-AI%2FML-purple?style=flat-square)
+
+</div>
